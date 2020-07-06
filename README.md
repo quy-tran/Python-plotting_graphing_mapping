@@ -11,5 +11,9 @@ We will be using data from the UN on immigration to Canada to graph using Matplo
 4. Pie charts
 5. Box charts
 
+Using the folium library
+6. Mapping and location
+
+
 
 
